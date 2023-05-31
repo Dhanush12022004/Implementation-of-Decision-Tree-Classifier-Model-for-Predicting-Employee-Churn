@@ -91,7 +91,25 @@ print("Data Prediction:")
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ## Output:
-![decision tree classifier model](sam.png)
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135558/1d8bbb73-8cfd-4f39-9504-2aacb2390527)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135558/b94b902d-500a-4345-af05-ca5f7e25bf61)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135558/9ce1c1f6-f843-4133-a48d-23cfc6affc2b)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135558/9a290f2b-dbdb-4430-8365-fb3e5d2a26c3)
+
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135558/e9d27e76-60f2-482f-a21f-e538518e33a0)
+
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135558/16bdfd0d-e8b6-4a04-85dd-049eb92f8468)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135558/7f9975be-67b6-4eb6-a7b8-c50676af8e23)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135558/90580e73-baea-4ec2-9cdb-2c8dadf1266d)
+
+
 
 
 ## Result:
